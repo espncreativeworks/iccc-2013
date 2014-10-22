@@ -1,0 +1,19 @@
+{
+  "_id": 4,
+  "currentRound": {
+    "_id": 4,
+    "endDate": 1394985599000,
+    "startDate": 1393869600000
+  },
+  "label": "Round of 4",
+  "nextRound": {
+    "_id": 4,
+    "endDate": 1394985599000,
+    "startDate": 1394985599000
+  },
+  "promo": {
+    "endDate": 1394985599000,
+    "startDate": 1389038400000
+  },
+  "totalVotes": 1
+}
